@@ -1,0 +1,23 @@
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2, h3, h4{
+    font-family: fantasy;
+    text-align: center;
+}
+/**
+Aligned the icons. Padding was too specific to one size of viewport.
+*/
+.icons{
+    text-align: center;
+}
+
+body {
+    padding-bottom: 20px;
+}
+  
+.navbar {
+    margin-bottom: 20px;
+}
