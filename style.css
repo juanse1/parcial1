@@ -1,10 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+
 p{
-    text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
 
-h2, h3, h4{
-    font-family: fantasy;
+h1{
+    font-family: "Satisfy", cursive;
+}
+
+h2, h3{
+    
     text-align: center;
 }
 /**
