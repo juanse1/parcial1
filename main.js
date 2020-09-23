@@ -243,6 +243,12 @@ function mostrarData(array)
         confirmOrder();
     }
 
+    let botonCancel = document.getElementById("botonCancel");
+    botonCancel.onclick = function(){
+        const modal = document.getElementById("cancelModal");
+        modal.style.display = 'none';
+    }
+
     class Detail
     {
         constructor(qty, desc, unitp)
